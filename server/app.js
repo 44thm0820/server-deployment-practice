@@ -11,5 +11,8 @@ const app = express();
 app.get('/hello', (request, response, next) => {
   response.send('Hello world');
 });
+app.get('/data', (request, response, next) => {
+  response.send('you requested data successfully!');
+});
 
 module.exports = app;
