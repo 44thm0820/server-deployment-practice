@@ -3,6 +3,7 @@
 ## server-deployment-practice
 
 [url pointing to Heroku application-dev branch](https://rey-server-deploy-dev.herokuapp.com/)
+
 [url pointing to Heroku application-prod branch](https://rey-server-deploy-prod.herokuapp.com/)
 
 - add endpoint /hello or /test to verify to either above to verify success.
